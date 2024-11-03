@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @blank-mind-op
-- 👀 I’m interested in operational research, algorithms, AI
+- 👀 I’m interested in operational research, algorithms, AI and cybersecurity
 - 🌱 I’m currently a computer science and AI student
-- 💞️ I’m looking to collaborate on optimization projects
+- 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me: email (karm.adnane@gmail.com)
 
 <!---
